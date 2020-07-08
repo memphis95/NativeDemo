@@ -1,0 +1,12 @@
+{
+  "name": "LexDemo",
+  "displayName": "LexDemo",
+  "expo": {
+    "name": "LexDemo",
+    "slug": "LexDemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
