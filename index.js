@@ -13,7 +13,7 @@ import WebViewTest from './WebViewTest'
 // It also ensures that whether you load the app in the Expo client or in a native build,
 // the environment is set up appropriately
 
-// registerRootComponent(App);
+registerRootComponent(App);
 // registerRootComponent(UIComponent)
 // registerRootComponent(ButtonTest)
 // registerRootComponent(SwitchTest)
@@ -21,5 +21,5 @@ import WebViewTest from './WebViewTest'
 // registerRootComponent(SliderTest)
 
 // registerRootComponent(AlertTest);
-registerRootComponent(ModalTest);
+// registerRootComponent(ModalTest);
 // registerRootComponent(WebViewTest)
