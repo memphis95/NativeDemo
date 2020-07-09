@@ -7,7 +7,8 @@ import SwitchTest from './SwitchTest';
 import PickerTest from './PickerTest';
 import SliderTest from './SliderTest';
 import AlertTest from './AlertTest'
-
+import ModalTest from './ModalTest'
+import WebViewTest from './WebViewTest'
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
 // It also ensures that whether you load the app in the Expo client or in a native build,
 // the environment is set up appropriately
@@ -19,4 +20,6 @@ import AlertTest from './AlertTest'
 // registerRootComponent(PickerTest)
 // registerRootComponent(SliderTest)
 
-registerRootComponent(AlertTest);
+// registerRootComponent(AlertTest);
+registerRootComponent(ModalTest);
+// registerRootComponent(WebViewTest)
