@@ -34,6 +34,7 @@ Image 1: Intail screen : Login page
 ![Screenshot_2020-08-27-22-56-00-494_com lexdemo](https://user-images.githubusercontent.com/14840428/91480441-9e92b100-e8c0-11ea-8198-896d803584af.jpg)
 
 Image 2: Home Screen
+
 ![Screenshot_2020-08-27-22-56-05-298_com lexdemo](https://user-images.githubusercontent.com/14840428/91480624-e1548900-e8c0-11ea-9c8c-1fb5ccffe845.jpg)
 
 
