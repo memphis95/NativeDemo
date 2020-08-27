@@ -1,1 +1,1 @@
-** React Native Naivgation Example**
+React Native Navigation Example
