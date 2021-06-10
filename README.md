@@ -44,7 +44,7 @@ npx react-native run-android
 
 ## Demo Images
 
-Image 1: Intail screen : Login page 
+Image 1: Intial screen : Login page 
 
 ![Screenshot_2020-08-27-22-56-00-494_com lexdemo](https://user-images.githubusercontent.com/14840428/91480441-9e92b100-e8c0-11ea-8198-896d803584af.jpg)
 
